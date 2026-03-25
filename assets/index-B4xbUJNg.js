@@ -187,7 +187,69 @@ Error generating stack: `+s.message+`
 오 선하신 예수여! 오 가장 낮아지신 주님! 
 오 긍휼의 주님!…
 
-<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 캔터베리의 안셀무스의 '기도와 묵상' -</span>`,suno_lyrics:"세상의 왕관을 벗고 진정한 왕을 예배하리, 가시관 쓰신 나의 주님."},{day:3,dayName:"수요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"나의 의를 십자가에 박고, 주의 은혜만 자랑하리라."},{day:4,dayName:"목요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw={1:uw,2:lw,3:cw,4:hw,5:fw};function pw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1;return V.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[V.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[V.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px"},children:"고난주간 묵상 나눔"}),V.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),V.jsx("div",{className:"card-list",children:aw.map((i,s)=>{i.day;const a=e.includes(i.day);let l="cover",u="center";return i.day===1&&(u="center 20%"),i.day===2&&(u="center 30%"),i.day===3&&(u="center 15%"),i.day===4&&(u="center 33%"),i.day===5&&(u="center 0%"),V.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${s*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${dw[i.day]})`,backgroundSize:`100% 100%, ${l}`,backgroundPosition:`center, ${u}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(i),children:[V.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:a?V.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):V.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),V.jsxs("div",{children:[V.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:i.dayName}),V.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:i.theme}})]})]},i.day)})})]})}const mw=()=>{};var xp={};/**
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 캔터베리의 안셀무스의 '기도와 묵상' -</span>`,suno_lyrics:"세상의 왕관을 벗고 진정한 왕을 예배하리, 가시관 쓰신 나의 주님."},{day:3,dayName:"수요일",theme:`<b>죄패 : 나의 이름을 부르시는 하나님의 언어</b>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif; font-weight: 400; font-size: 13px;">세상의 어떤 언어보다 더 큰 사랑으로 너를 증명한다</span>`,verse:`"빌라도가 패를 써서 십자가 위에 붙이니
+나사렛 예수 유대인의 왕이라 기록되었더라
+예수께서 못 박히신 곳이 성에서 가까운
+고로 많은 유대인이 이 패를 읽는데
+히브리와 로마와 헬라 말로 기록되었더라"
+(요 19:19-20)`,meditationContent:`<b>[십자가 위에 새겨진 세 가지 언어의 비밀]</b>
+예수님의 머리 위에는 "유대인의 왕 나사렛 예수"라고 적힌 죄패가 붙어 있었습니다. 로마 총독 빌라도는 조롱하기 위해 쓴 글이었지만, 하나님은 이를 통해 인류를 향한 가장 위대한 선언을 하셨습니다. 이 죄패는 당시 세상을 지배하던 종교(히브리어), 정치(로마어), 문화(헬라어)의 모든 언어로 기록되었습니다.
+
+이것은 하나님께서 세상의 모든 사람, 즉 그 어떤 언어를 쓰고 어떤 삶의 배경을 가진 사람이라도 다 알아들을 수 있도록 복음의 메시지를 선포하신 것입니다. 주님은 고귀한 성전에만 계시지 않고, 우리 삶의 현장인 시장 바닥과 길가에서도 이해될 수 있는 '우리의 언어'로 다가오셨습니다. 주님은 우리 각자의 사정과 아픔을 아시고, 우리에게 가장 익숙한 방식으로 말씀하시는 분입니다.
+
+
+<b>[꼬리표를 바꾸시는 하나님]</b>
+세상은 우리에게 자꾸만 낙인을 찍으려 합니다. '실패자', '무능한 사람', '자격 없는 자'라는 꼬리표를 붙입니다. 하지만 십자가 위의 죄패를 보십시오. 비록 조롱 속에 쓰였으나 그것은 진실이었습니다. 주님은 진정한 왕이셨고, 그 왕이 지금 우리 곁에 계십니다. 하나님은 세상이 붙인 당신의 꼬리표를 떼어내시고, 새로운 이름을 써주십니다. "너는 내가 죽기까지 사랑한 내 자녀다." 십자가는 하나님이 우리에게 보내신 가장 명확하고 공개적인 사랑의 편지입니다.`,question:`1. 요즘 내가 귀 기울이고 있는
+   '세상의 부정적인 말'은 무엇인가요?
+2. 십자가 위에서 하나님이
+   나를 향해 선포하시는
+   '사랑의 이름'을 들을 준비가 되었나요?`,prayer:`당신은 그리스도, 
+나의 거룩한 아버지이시며,
+나의 다정한 하나님, 
+나의 위대한 왕이시나이다.
+
+나의 선한 목자, 나의 유일한 스승, 
+나의 가장 훌륭한 돕는 자시며,
+나의 가장 아름다운 사랑이요, 
+나의 영원한 구원이시나이다.
+
+세상은 당신을 조롱하여 십자가 위에 
+'유대인의 왕'이라 적었으나, 
+주여, 당신은 온 우주의 왕이시며 
+내 마음의 유일한 통치자이십니다.
+
+오, 십자가 위에서 끔찍한 죽음을 
+겪으신 전능하신 하나님, 
+특별히 나의 죄를 대속하기 위해 죽으신 
+나의 예수여, 나와 함께 하옵소서.
+
+조롱의 명패를 진리의 선언으로 바꾸신 
+예수 그리스도의 거룩한 십자가여, 
+나를 불쌍히 여기소서.
+
+십자가에 못 박히신 나사렛 예수시여, 
+내게 자비를 베푸사 악의 세력이 
+영원히 나를 떠나게 하시고, 
+세상의 모욕 앞에서도 내가 흔들림 없이 
+구원의 길을 걷게 하옵소서.
+
+달콤하신 주 예수 그리스도여,
+내 평생에 나의 하나님이신 당신 외에 
+그 어떤 것을 사랑하거나 갈망할 이유가 
+어디 있겠나이까? 
+
+내 영혼 깊은 곳에 당신을 향한 
+사랑의 불씨가 타오르게 하시어,
+그 사랑이 내 마음의 제단 위에서 
+끊이지 않는 불꽃이 되게 하옵소서.
+
+내 생명이 다하는 그날, 
+오직 십자가의 왕이신 당신과 
+온전히 하나 된 모습으로 
+발견되게 하옵소서. 아멘.
+
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 성 아우구스티누스의 '그리스도를 향한 사랑의 기도' -</span>`,suno_lyrics:"나의 의를 십자가에 박고, 주의 은혜만 자랑하리라."},{day:4,dayName:"목요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw={1:uw,2:lw,3:cw,4:hw,5:fw};function pw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1;return V.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[V.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[V.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px"},children:"고난주간 묵상 나눔"}),V.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),V.jsx("div",{className:"card-list",children:aw.map((i,s)=>{i.day;const a=e.includes(i.day);let l="cover",u="center";return i.day===1&&(u="center 20%"),i.day===2&&(u="center 30%"),i.day===3&&(u="center 15%"),i.day===4&&(u="center 33%"),i.day===5&&(u="center 0%"),V.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${s*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${dw[i.day]})`,backgroundSize:`100% 100%, ${l}`,backgroundPosition:`center, ${u}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(i),children:[V.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:a?V.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):V.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),V.jsxs("div",{children:[V.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:i.dayName}),V.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:i.theme}})]})]},i.day)})})]})}const mw=()=>{};var xp={};/**
  * @license
  * Copyright 2017 Google LLC
  *
