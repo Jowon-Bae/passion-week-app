@@ -290,7 +290,82 @@ Error generating stack: `+s.message+`
 그 옷은 신랑의 죽음과 수난에 대한 
 의로운 참여입니다…
 
-<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 요한 게르하르트의 '회개 기도' -</span>`,suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw={1:uw,2:lw,3:cw,4:hw,5:fw};function pw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1;return V.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[V.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[V.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px"},children:"고난주간 묵상 나눔"}),V.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),V.jsx("div",{className:"card-list",children:aw.map((i,s)=>{i.day;const a=e.includes(i.day);let l="cover",u="center";return i.day===1&&(u="center 20%"),i.day===2&&(u="center 30%"),i.day===3&&(u="center 15%"),i.day===4&&(u="center 33%"),i.day===5&&(u="center 0%"),V.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${s*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${dw[i.day]})`,backgroundSize:`100% 100%, ${l}`,backgroundPosition:`center, ${u}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(i),children:[V.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:a?V.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):V.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),V.jsxs("div",{children:[V.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:i.dayName}),V.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:i.theme}})]})]},i.day)})})]})}const mw=()=>{};var xp={};/**
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 요한 게르하르트의 '회개 기도' -</span>`,suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:`<b>십자가라는 거친 선물</b>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif; font-weight: 400; font-size: 13px;">이 모든 것이, 바로 너를 위해 준비한 것이다</span>`,verse:`"그들이 예수를 맡으매
+예수께서 자기의 십자가를 지시고
+해골(히브리 말로 골고다)이라
+하는 곳에 나가시니
+그들이 거기서 예수를 십자가에
+못 박을새 다른 두 사람도
+그와 함께 좌우편에 못 박으니
+예수는 가운데 있더라"
+(요 19:17-18)
+
+"우리가 아직 죄인 되었을 때에
+그리스도께서 우리를 위하여
+죽으심으로
+하나님께서 우리에 대한
+자기의 사랑을
+확증하셨느니라"
+(롬 5:8)`,meditationContent:`<b>[십자가의 나무 결을 만지는 시간]</b>
+누군가에게 줄 선물을 준비할 때, 우리는 참 많은 고민을 합니다. 받는 사람의 취향을 생각하고, 가장 좋은 것을 고르고, 혹여나 흠집이 날까 정성스레 포장지에 싸서 리본을 묶습니다. 선물을 주는 사람의 마음은 그 포장지 속 내용물만큼이나 간절하기 때문입니다.
+
+하나님께서도 우리에게 선물을 주기로 작정하셨습니다. 그런데 그분이 고르신 포장지는 우리가 예상한 것과는 너무나 달랐습니다. 화려한 금박지도, 부드러운 비단도 아니었습니다. 하나님이 선택하신 사랑의 포장지는 '거친 나무 십자가'였고, 그 리본은 '예수님의 붉은 피'였습니다.
+
+우리는 흔히 십자가를 멀리서 바라보는 거대한 상징으로만 생각합니다. 하지만 오늘 우리는 십자가 언덕으로 더 가까이 다가가 보려 합니다. 그곳에 가서 십자가의 거친 나무 결을 직접 손바닥으로 쓸어보는 것입니다. 손끝을 찌르는 가시의 뾰족함에 움찔해보고, 무거운 망치 소리와 함께 살을 뚫고 들어오는 대못의 차가운 금속 성질을 온몸으로 느껴보는 시간입니다.
+
+
+<b>[보잘것없는 나를 위한 위대한 사랑]</b>
+그 고통의 현장 한복판에서 우리는 주님께 묻게 됩니다. "주님, 대체 왜 이렇게까지 하십니까? 이 잔인하고 참혹한 일들이 정말 나를 위해 하신 일입니까?"
+
+2천 년 전, 그 언덕 위의 이야기는 나와 상관없는 역사 속 한 페이지가 아닙니다. 오늘 하루도 보잘것없이 살아가며, 스스로를 자책하고, 세상의 파도에 밀려 흔들리는 '나'를 살리기 위해 주님이 온몸으로 써 내려가신 절절한 사랑 이야기입니다.
+
+십자가 주변에 흩어진 작은 조각들을 보십시오. 군병들이 제비 뽑아 나눠 가진 그분의 옷자락, 머리에 눌러 쓰신 가시 면류관, 옆구리를 관통한 창끝.. 이 세세한 고통의 흔적들은 모두 우리를 향한 하나님의 영수증입니다. "내가 이만큼 너를 귀하게 여긴다"는 확증입니다.`,question:`1. 나의 가치를 어디서 찾고 있나요?
+   세상의 평가가 아닌, 나를 위해 십자가라는
+   엄청난 대가를 지불하신 주님의 눈으로
+   나를 바라보고 있습니까?
+2. 십자가가 '지식'으로만 느껴지지는 않나요?
+   오늘 하루, 그 거친 나무 십자가가 나의
+   구체적인 삶의 문제(슬픔, 외로움, 무력감)를
+   덮고 있다는 사실을 신뢰해 보세요.`,prayer:`오 예수님, 
+거짓 고소를 당하시고 
+억울하게 정죄 받으신 분이여, 
+저로 하여금 거짓 비난을 견디는 법을 
+가르치소서. 저에게 자비를 베푸소서.
+
+오 예수님, 
+조롱과 수치의 옷을 입으신 분이여, 
+제가 제 자신의 영광을 
+구하지 않게 하소서. 
+저에게 자비를 베푸소서.
+
+오 예수님, 
+끌려가시고, 채찍질 당하시고, 
+피 흘리신 분이여, 
+불같은 시험 속에서 
+제가 기절하지 않게 하소서. 
+저에게 자비를 베푸소서.
+
+오 예수님, 
+가시 면류관을 쓰시고 
+증오의 우박을 맞으신 분이여,
+
+오 예수님, 
+십자가에서 우리의 죄와 저주를 
+짊어지신 분이여,
+
+오 예수님, 모욕받으시고, 
+상처 입으시고, 슬퍼하시며, 
+굴욕을 당하신 분이여,
+
+오 예수님, 
+저주받은 십자가 나무에 
+매달리신 분이여, 
+머리를 숙이시고 당신의 영을 
+내어주신 분이여,
+
+제 모든 삶을 당신의 사랑에 
+일치하게 하소서.`,suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw={1:uw,2:lw,3:cw,4:hw,5:fw};function pw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1;return V.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[V.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[V.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px"},children:"고난주간 묵상 나눔"}),V.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),V.jsx("div",{className:"card-list",children:aw.map((i,s)=>{i.day;const a=e.includes(i.day);let l="cover",u="center";return i.day===1&&(u="center 20%"),i.day===2&&(u="center 30%"),i.day===3&&(u="center 15%"),i.day===4&&(u="center 33%"),i.day===5&&(u="center 0%"),V.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${s*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${dw[i.day]})`,backgroundSize:`100% 100%, ${l}`,backgroundPosition:`center, ${u}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(i),children:[V.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:a?V.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):V.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),V.jsxs("div",{children:[V.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:i.dayName}),V.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:i.theme}})]})]},i.day)})})]})}const mw=()=>{};var xp={};/**
  * @license
  * Copyright 2017 Google LLC
  *
