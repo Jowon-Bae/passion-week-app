@@ -148,7 +148,46 @@ Error generating stack: `+s.message+`
 저를 불쌍히 여기시고, 저를 용서하시며, 
 이 세상을 용서하여 주옵소서. 아멘.
 
-<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 12세기 클레르보의 베르나르두스의 수난 묵상 전통 중 가시 면류관 기도문 -</span>`,suno_lyrics:"나의 모든 체면을 십자가에 내려놓네, 주님의 사랑만이 나를 자유케 하네."},{day:2,dayName:"화요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"세상의 왕관을 벗고 진정한 왕을 예배하리, 가시관 쓰신 나의 주님."},{day:3,dayName:"수요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"나의 의를 십자가에 박고, 주의 은혜만 자랑하리라."},{day:4,dayName:"목요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw={1:uw,2:lw,3:cw,4:hw,5:fw};function pw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1;return V.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[V.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[V.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px"},children:"고난주간 묵상 나눔"}),V.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),V.jsx("div",{className:"card-list",children:aw.map((i,s)=>{i.day;const a=e.includes(i.day);let l="cover",u="center";return i.day===1&&(u="center 20%"),i.day===2&&(u="center 30%"),i.day===3&&(u="center 15%"),i.day===4&&(u="center 33%"),i.day===5&&(u="center 0%"),V.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${s*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${dw[i.day]})`,backgroundSize:`100% 100%, ${l}`,backgroundPosition:`center, ${u}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(i),children:[V.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:a?V.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):V.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),V.jsxs("div",{children:[V.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:i.dayName}),V.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:i.theme}})]})]},i.day)})})]})}const mw=()=>{};var xp={};/**
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 12세기 클레르보의 베르나르두스의 수난 묵상 전통 중 가시 면류관 기도문 -</span>`,suno_lyrics:"나의 모든 체면을 십자가에 내려놓네, 주님의 사랑만이 나를 자유케 하네."},{day:2,dayName:"화요일",theme:`<b>대못 : 나를 붙드신 사랑의 확증</b>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif; font-weight: 400; font-size: 13px;">너를 향한 정죄의 목록을 내가 이 못으로 박아버렸다</span>`,verse:`"다른 제자들이 그에게 이르되
+우리가 주를 보았노라 하니
+도마가 이르되 내가 그의 손의
+못 자국을 보며 내 손가락을
+그 못 자국에 넣으며
+내 손을 그 옆구리에 넣어 보지 않고는
+믿지 아니하겠노라 하니라"
+(요 20:25)
+
+"내 손과 발을 보고 나인 줄 알라
+또 나를 만져 보라
+영은 살과 뼈가 없으되
+너희 보는 바와 같이 나는 있느니라"
+(눅 24:39)`,meditationContent:`<b>[거친 망치 소리 속에 담긴 용서의 선포]</b>
+골고다 언덕에 울려 퍼진 무겁고도 차가운 망치 소리에 귀를 기울여 보십시오. 날카로운 무쇠 대못이 주님의 손목을 관통할 때, 온 우주가 그 고통의 소리에 몸을 떨었습니다. 우리는 흔히 그 못이 단순히 주님을 나무에 고정시키기 위한 형벌의 도구라고만 생각합니다. 하지만 그 못이 박힐 때 우리의 삶에는 놀라운 일이 일어났습니다.
+
+예수님의 손바닥과 십자가 나무 사이에는 우리가 지은 모든 죄의 목록, 즉 '채무 증서'가 놓여 있었습니다. 주님은 그 못으로 우리의 죄목들을 십자가에 완전히 박아버리셨습니다. 이제 그 누구도 우리를 정죄할 수 없도록, 주님은 자신의 살을 뚫는 고통을 감수하며 우리를 옭아매던 모든 빚 문서를 폐기하신 것입니다.
+
+
+<b>[못보다 더 강한 사랑의 결박]</b>
+주님은 전능하신 분입니다. 단 한 번의 명령으로 군병들의 망치를 멈추게 하실 수도 있었고, 박힌 못을 튕겨내실 수도 있었습니다. 하지만 주님은 손을 거두지 않으셨습니다. 주님을 십자가에 고정시킨 것은 강철 못이 아니었습니다. 그것은 바로 '너 없이는 천국에 가고 싶지 않다'는 주님의 지독하고도 강렬한 사랑이었습니다. 그 못 자국은 우리를 향한 영원한 영수증입니다. "다 이루었다, 이제 너는 자유다"라고 말씀하시는 주님의 확증입니다. 더 이상 과거의 잘못에 붙잡혀 있지 마십시오. 주님이 이미 다 박아버리셨습니다.`,question:`1. 여전히 나를 괴롭히는 과거의 잘못이나
+   '죄책감'의 목록이 있나요?
+2. 주님의 못 박힌 손이 그 목록을
+   이미 지우셨음을 믿음으로 선포해 보세요.`,prayer:`쇠못으로 두 강도 사이에서 
+십자가에 박히시고, 
+죽으신 후에도 창으로 옆구리를 찔리시며, 
+양손과 양발, 그리고 옆구리의 다섯 상처로부터 
+풍성한 피의 강물을 쏟아내셨나이다. 
+
+오 내 눈이여, 눈물을 흘리소서. 
+오 내 마음이여, 그토록 심하게 멍들고 
+으스러지며 참혹한 슬픔으로 상처 입으신 
+'사랑의 주님'을 향한 연민의 불꽃으로 
+녹아내리고 또 녹아내리소서. 
+
+오 선하신 예수여! 오 가장 낮아지신 주님! 
+오 긍휼의 주님!…
+
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 캔터베리의 안셀무스의 '기도와 묵상' -</span>`,suno_lyrics:"세상의 왕관을 벗고 진정한 왕을 예배하리, 가시관 쓰신 나의 주님."},{day:3,dayName:"수요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"나의 의를 십자가에 박고, 주의 은혜만 자랑하리라."},{day:4,dayName:"목요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:"[묵상 주제]",verse:"[성경구절]",meditationContent:"[묵상 내용 입력란]",question:"[나를 향한 질문 입력란]",prayer:"[기도문 입력란]",suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw={1:uw,2:lw,3:cw,4:hw,5:fw};function pw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1;return V.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[V.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[V.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px"},children:"고난주간 묵상 나눔"}),V.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),V.jsx("div",{className:"card-list",children:aw.map((i,s)=>{i.day;const a=e.includes(i.day);let l="cover",u="center";return i.day===1&&(u="center 20%"),i.day===2&&(u="center 30%"),i.day===3&&(u="center 15%"),i.day===4&&(u="center 33%"),i.day===5&&(u="center 0%"),V.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${s*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${dw[i.day]})`,backgroundSize:`100% 100%, ${l}`,backgroundPosition:`center, ${u}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(i),children:[V.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:a?V.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):V.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),V.jsxs("div",{children:[V.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:i.dayName}),V.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:i.theme}})]})]},i.day)})})]})}const mw=()=>{};var xp={};/**
  * @license
  * Copyright 2017 Google LLC
  *
