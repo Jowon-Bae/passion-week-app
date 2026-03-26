@@ -207,7 +207,25 @@ Error generating stack: `+s.message+`
 오 가장 낮아지신 주님! 
 오 긍휼의 주님!…
 
-<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 캔터베리의 안셀무스의 '기도와 묵상' -</span>`,suno_lyrics:"세상의 왕관을 벗고 진정한 왕을 예배하리, 가시관 쓰신 나의 주님."},{day:3,dayName:"수요일",theme:`<b>죄패 : 나의 이름을 부르시는 하나님의 언어</b>
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 캔터베리의 안셀무스의 '기도와 묵상' -</span>`,suno_lyrics:`차가운 못이 박힐 때
+주님의 손을 뚫을 때
+내 죄의 무거운 이름들
+십자가에 못 박혔네
+
+주님 날 위해 못 박히사
+정죄의 문을 닫으셨네
+나를 묶던 지난 어둠
+십자가에서 끝내셨네
+
+주님의 손에 남은 흔적
+영원한 약속 되었네
+다 이루신 주의 음성이
+오늘도 나를 살리네
+
+주님 날 위해 못 박히사
+죄의 값을 다 치르셨네
+그 못 자국 남긴 사랑
+이제 나는 자유하네`},{day:3,dayName:"수요일",theme:`<b>죄패 : 나의 이름을 부르시는 하나님의 언어</b>
 <span style="font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif; font-weight: 400; font-size: 13px;">세상의 어떤 언어보다 더 큰 사랑으로 너를 증명한다</span>`,verse:`"빌라도가 패를 써서 
 십자가 위에 붙이니 
 나사렛 예수 유대인의 왕이라 
@@ -272,7 +290,32 @@ Error generating stack: `+s.message+`
 온전히 하나 된 모습으로 
 발견되게 하옵소서. 아멘.
 
-<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 성 아우구스티누스의<br>'그리스도를 향한 사랑의 기도' -</span>`,suno_lyrics:"나의 의를 십자가에 박고, 주의 은혜만 자랑하리라."},{day:4,dayName:"목요일",theme:`<b>솔기 없는 옷 : 나를 덮어주는 의의 옷자락</b>
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 성 아우구스티누스의<br>'그리스도를 향한 사랑의 기도' -</span>`,suno_lyrics:`높이 들린 십자가 그 머리 위
+감춰진 하늘의 진리
+세상의 모든 이가 들을 수 있게 
+그 이름 온 땅에 선포되네
+
+십자가 위에 새겨졌네
+세상 그 어떤 말보다 크게
+나를 향해 외치신 사랑
+모든 언어를 넘어 울리는
+하나님의 영원한 고백
+그 사랑 안에 나를 세우시네
+
+세상이 내게 붙인 
+실패와 정죄의 이름 
+십자가 위에서 끊어내셨네
+죽기까지 나를 사랑하사
+날 자녀라 부르시네
+나의 왕 나의 주 예수 
+지금도 나와 함께 하시네 
+
+십자가 위에 새겨졌네
+세상 그 어떤 말보다 크게
+나를 향해 외치신 사랑
+모든 언어를 넘어 울리는
+하나님의 영원한 고백
+그 사랑 안에 나를 세우시네`},{day:4,dayName:"목요일",theme:`<b>솔기 없는 옷 : 나를 덮어주는 의의 옷자락</b>
 <span style="font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif; font-weight: 400; font-size: 13px;">너의 부끄러운 누더기를 벗고, 나의 거룩함을 입으라</span>`,verse:`"군인들이 예수를 십자가에 못 박고 
 그의 옷을 취하여 네 깃에 나눠 
 각각 한 깃씩 얻고 속옷도 취하니 
@@ -314,7 +357,39 @@ Error generating stack: `+s.message+`
 그 옷은 신랑의 죽음과 수난에 대한 
 의로운 참여입니다…
 
-<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 요한 게르하르트의 '회개 기도' -</span>`,suno_lyrics:"모든 거짓의 옷을 벗고 진리의 빛 앞에 서네."},{day:5,dayName:"금요일",theme:`<b>십자가라는 거친 선물</b>
+<span style="font-size: 13px; opacity: 0.55; display: block; margin-top: 12px; font-style: italic; letter-spacing: 0.3px;">- 요한 게르하르트의 '회개 기도' -</span>`,suno_lyrics:`십자가 위에 벗겨진 그 옷
+찢기지 않은 사랑
+위에서 아래로 하나로 짜인
+온전한 의의 옷자락
+나의 수치와 죄의 누더기를
+주님 대신 입으셨네
+
+나의 부끄러움 벗기시고
+주의 의로 날 덮으시네
+자격 없는 날 향한 은혜
+그 사랑 안에 서 있네
+나의 수치를 덮는 완전한 사랑
+영원히 날 덮으시네
+그 보좌로 나아가
+담대히 주 앞에 서 있네
+
+십자가 위에 벗겨지신 주
+나의 수치 대신 지시고
+죄의 누더기를 입으사
+날 자유케 하셨네
+주의 의로 나를 덮으시고
+새 옷 입혀 주시네
+자격 없는 나를 이끄시고 
+은혜의 보좌 앞에 서게 하시네
+
+나의 부끄러움 벗기시고
+주의 의로 날 덮으시네
+자격 없는 날 향한 은혜
+그 사랑 안에 서 있네
+나의 수치를 덮는 완전한 사랑
+영원히 날 덮으시네
+그 보좌로 나아가
+담대히 주 앞에 서 있네`},{day:5,dayName:"금요일",theme:`<b>십자가라는 거친 선물</b>
 <span style="font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif; font-weight: 400; font-size: 13px;">이 모든 것이, 바로 너를 위해 준비한 것이다</span>`,verse:`"그들이 예수를 맡으매
 예수께서 자기의 십자가를 지시고
 해골(히브리 말로 골고다)이라
@@ -389,7 +464,27 @@ Error generating stack: `+s.message+`
 내어주신 분이여,
 
 제 모든 삶을 당신의 사랑에 
-일치하게 하소서.`,suno_lyrics:"만왕의 왕 예수, 온 세상이 주를 경배하리."}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw="/passion-week-app/assets/Tomb%20of%20Jesus_close-fqTXT4rQ.png",pw="/passion-week-app/assets/Tomb%20of%20Jesus_open-ziNY8x2u.png",mw={1:uw,2:lw,3:cw,4:hw,5:fw},gw=new Date("2026-04-05T00:00:00+09:00");function yw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1,s=new Date>=gw?pw:dw;return k.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[k.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[k.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px",fontFamily:'-apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif'},children:"고난주간 묵상 나눔"}),k.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),k.jsxs("div",{className:"card-list",children:[kp.map((a,l)=>{a.day;const c=e.includes(a.day);let h="cover",d="center";return a.day===1&&(d="center 20%"),a.day===2&&(d="center 30%"),a.day===3&&(d="center 15%"),a.day===4&&(d="center 33%"),a.day===5&&(d="center 0%"),k.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${l*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${mw[a.day]})`,backgroundSize:`100% 100%, ${h}`,backgroundPosition:`center, ${d}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(a),children:[k.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:c?k.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):k.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),k.jsxs("div",{children:[k.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'-apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif'},children:a.dayName}),k.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:a.theme}})]})]},a.day)}),k.jsx("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"flex-end",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${kp.length*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.4) 55%, rgba(0,0,0,0.15) 100%), url(${s})`,backgroundSize:"100% 100%, cover",backgroundPosition:"center, center 30%",backgroundRepeat:"no-repeat, no-repeat",cursor:"default"},children:k.jsxs("div",{children:[k.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:"부활주일"}),k.jsxs("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", serif',lineHeight:"1.4"},children:[k.jsxs("b",{children:["그가 여기 계시지 않고 그가 말씀 하시던 대로",k.jsx("br",{}),"살아나셨느니라 와서 그가 누우셨던 곳을 보라"]}),k.jsx("br",{}),k.jsx("span",{style:{fontFamily:"-apple-system, sans-serif",fontWeight:400,fontSize:"13px"},children:"4월 5일 주일 · 부활절"})]})]})})]})]})}const _w=()=>{};var Pp={};/**
+일치하게 하소서.`,suno_lyrics:`화려함 대신 택하신 
+거친 나무 십자가
+그 위로 흐르는 주님의 붉은 피
+나를 위해 내어주신 귀한 생명
+그 크신 사랑 내 마음에 닿네  
+
+거친 나무 위에 새겨진 사랑
+보잘것없는 날 위해 주신 선물
+내 모든 자책과 슬픔을 덮으사
+나를 귀하다 하시네 
+십자가의 그 사랑  
+
+주님이 잠잠히 안으신 그 고통
+나의 깊은 슬픔과 무력감 덮으셨네
+흔들리는 나를 붙잡은 그 흔적
+나를 귀하다 십자가로 확증하시네  
+
+거친 나무 위에 새겨진 사랑
+보잘것없는 날 위해 주신 선물
+내 모든 자책과 슬픔을 덮으사
+나를 귀하다 하시네 십자가의 그 사랑`}],lw="/passion-week-app/assets/Day1-DQaJtPuD.jpg",uw="/passion-week-app/assets/Day2-D_nB8Nbp.jpg",cw="/passion-week-app/assets/day3-CGIwnzhW.jpg",hw="/passion-week-app/assets/Day4-BF1T1Dw3.jpg",fw="/passion-week-app/assets/Day5-Cu_yQVyE.jpg",dw="/passion-week-app/assets/Tomb%20of%20Jesus_close-fqTXT4rQ.png",pw="/passion-week-app/assets/Tomb%20of%20Jesus_open-ziNY8x2u.png",mw={1:uw,2:lw,3:cw,4:hw,5:fw},gw=new Date("2026-04-05T00:00:00+09:00");function yw({onSelectDay:t,completedDays:e}){const n=new Date().getDay(),r=n>=1&&n<=5?n:1,s=new Date>=gw?pw:dw;return k.jsxs("div",{className:"meditation-screen animate-fade-in-up",style:{padding:"24px",paddingTop:"calc(env(safe-area-inset-top, 54px) + 120px)",paddingBottom:"100px",backgroundImage:`url(${Tc})`,backgroundSize:"cover",backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundAttachment:"fixed",minHeight:"100vh"},children:[k.jsxs("header",{style:{marginTop:"0",marginBottom:"48px"},children:[k.jsx("h1",{className:"heading-jumbo",style:{fontSize:"32px",fontFamily:'-apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif'},children:"고난주간 묵상 나눔"}),k.jsx("p",{style:{color:"var(--text-secondary)",fontSize:"14px",marginTop:"12px"},children:"매일 주어지는 말씀을 묵상하고 실천해보세요."})]}),k.jsxs("div",{className:"card-list",children:[kp.map((a,l)=>{a.day;const c=e.includes(a.day);let h="cover",d="center";return a.day===1&&(d="center 20%"),a.day===2&&(d="center 30%"),a.day===3&&(d="center 15%"),a.day===4&&(d="center 33%"),a.day===5&&(d="center 0%"),k.jsxs("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"space-between",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${l*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.3) 100%), url(${mw[a.day]})`,backgroundSize:`100% 100%, ${h}`,backgroundPosition:`center, ${d}`,backgroundRepeat:"no-repeat, no-repeat"},onClick:()=>t(a),children:[k.jsx("div",{style:{display:"flex",justifyContent:"flex-start",alignItems:"center",marginBottom:"24px"},children:c?k.jsx("span",{style:{backgroundColor:"rgba(107, 45, 45, 0.85)",color:"#FFFFFF",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:800,backdropFilter:"blur(10px)",display:"flex",alignItems:"center",gap:"4px",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"✓ 묵상 완료"}):k.jsx("span",{style:{backgroundColor:"rgba(20, 20, 20, 0.7)",color:"#E5E7EB",padding:"6px 14px",borderRadius:"24px",fontSize:"12px",fontWeight:700,backdropFilter:"blur(10px)",boxShadow:"0 2px 8px rgba(0,0,0,0.3)"},children:"미완료"})}),k.jsxs("div",{children:[k.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'-apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif'},children:a.dayName}),k.jsx("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", "Apple Myungjo", "Batang", serif',whiteSpace:"pre-line",lineHeight:"1.4"},dangerouslySetInnerHTML:{__html:a.theme}})]})]},a.day)}),k.jsx("div",{className:"mosaic-card",style:{opacity:0,minHeight:"260px",display:"flex",flexDirection:"column",justifyContent:"flex-end",animation:`fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) ${kp.length*.08}s forwards`,backgroundImage:`linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.4) 55%, rgba(0,0,0,0.15) 100%), url(${s})`,backgroundSize:"100% 100%, cover",backgroundPosition:"center, center 30%",backgroundRepeat:"no-repeat, no-repeat",cursor:"default"},children:k.jsxs("div",{children:[k.jsx("h2",{className:"heading-card",style:{color:"#FFFFFF",textShadow:"0px 2px 4px rgba(0,0,0,0.5)"},children:"부활주일"}),k.jsxs("p",{style:{fontSize:"14px",fontWeight:600,color:"rgba(255,255,255,0.95)",marginBottom:"4px",textShadow:"0px 2px 4px rgba(0,0,0,0.5)",fontFamily:'"Nanum Myeongjo", "Noto Serif KR", serif',lineHeight:"1.4"},children:[k.jsxs("b",{children:["그가 여기 계시지 않고 그가 말씀 하시던 대로",k.jsx("br",{}),"살아나셨느니라 와서 그가 누우셨던 곳을 보라"]}),k.jsx("br",{}),k.jsx("span",{style:{fontFamily:"-apple-system, sans-serif",fontWeight:400,fontSize:"13px"},children:"4월 5일 주일 · 부활절"})]})]})})]})]})}const _w=()=>{};var Pp={};/**
  * @license
  * Copyright 2017 Google LLC
  *
