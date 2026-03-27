@@ -162,7 +162,7 @@ Error generating stack: `+s.message+`
 
 왕이신 주님이 보석 면류관 대신 가시 면류관을 택하신 이유는 단 하나입니다. 당신의 자녀들이 더 이상 죄책감과 불안의 가시덤불 속에 갇혀 살기를 원치 않으셨기 때문입니다. 오늘 여러분의 머릿속을 찌르는 가시가 무엇인가요? 주님은 이미 그 가시에 찔려 피 흘리셨음을 기억하십시오.
 
-<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px; margin-top: 16px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 오늘 나를 가장 아프게 찌르는
+<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 오늘 나를 가장 아프게 찌르는
    '마음의 가시'는 무엇입니까?
    (불안, 열등감, 과거의 상처 등)
 2. 주님이 그 가시를 대신 쓰셨다는 사실이
@@ -239,7 +239,7 @@ Error generating stack: `+s.message+`
 <b>[못보다 더 강한 사랑의 결박]</b>
 주님은 전능하신 분입니다. 단 한 번의 명령으로 군병들의 망치를 멈추게 하실 수도 있었고, 박힌 못을 튕겨내실 수도 있었습니다. 하지만 주님은 손을 거두지 않으셨습니다. 주님을 십자가에 고정시킨 것은 강철 못이 아니었습니다. 그것은 바로 '너 없이는 천국에 가고 싶지 않다'는 주님의 지독하고도 강렬한 사랑이었습니다. 그 못 자국은 우리를 향한 영원한 영수증입니다. "다 이루었다, 이제 너는 자유다"라고 말씀하시는 주님의 확증입니다. 더 이상 과거의 잘못에 붙잡혀 있지 마십시오. 주님이 이미 다 박아버리셨습니다.
 
-<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px; margin-top: 16px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 여전히 나를 괴롭히는 과거의 잘못이나
+<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 여전히 나를 괴롭히는 과거의 잘못이나
    '죄책감'의 목록이 있나요?
 2. 주님의 못 박힌 손이 그 목록을
    이미 지우셨음을 믿음으로 선포해 보세요.`,prayer:`쇠못으로 두 강도 사이에서 
@@ -295,7 +295,7 @@ Error generating stack: `+s.message+`
 <b>[꼬리표를 바꾸시는 하나님]</b>
 세상은 우리에게 자꾸만 낙인을 찍으려 합니다. '실패자', '무능한 사람', '자격 없는 자'라는 꼬리표를 붙입니다. 하지만 십자가 위의 죄패를 보십시오. 비록 조롱 속에 쓰였으나 그것은 진실이었습니다. 주님은 진정한 왕이셨고, 그 왕이 지금 우리 곁에 계십니다. 하나님은 세상이 붙인 당신의 꼬리표를 떼어내시고, 새로운 이름을 써주십니다. "너는 내가 죽기까지 사랑한 내 자녀다." 십자가는 하나님이 우리에게 보내신 가장 명확하고 공개적인 사랑의 편지입니다.
 
-<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px; margin-top: 16px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 요즘 내가 귀 기울이고 있는
+<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 요즘 내가 귀 기울이고 있는
    '세상의 부정적인 말'은 무엇인가요?
 2. 십자가 위에서 하나님이
    나를 향해 선포하시는
@@ -389,7 +389,7 @@ Error generating stack: `+s.message+`
 <b>[자격 없는 자에게 주시는 선물]</b>
 하나님은 당신을 보실 때, 당신의 실수나 허물을 먼저 보지 않으십니다. 당신이 입고 있는 예수 그리스도의 옷을 보십니다. 우리가 잘나서가 아니라, 주님이 입혀주셨기 때문에 우리는 담대히 은혜의 보좌 앞으로 나갈 수 있게 되었습니다. 우리의 구원은 우리가 무언가를 꿰매어 만든 것이 아닙니다. 위로부터 하나님이 통으로 짜서 주신 전적인 선물입니다. 오늘 그 은혜의 옷자락이 당신을 따뜻하게 덮고 있음을 신뢰하십시오.
 
-<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px; margin-top: 16px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 하나님 앞에 설 때, 여전히 내 허물과
+<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 하나님 앞에 설 때, 여전히 내 허물과
    부족함 때문에 주저하고 있지는 않나요?
 2. 주님이 나를 위해 예비하신
    '의의 옷'을 입고 있다는 사실이
@@ -477,7 +477,7 @@ Error generating stack: `+s.message+`
 
 십자가 주변에 흩어진 작은 조각들을 보십시오. 군병들이 제비 뽑아 나눠 가진 그분의 옷자락, 머리에 눌러 쓰신 가시 면류관, 옆구리를 관통한 창끝.. 이 세세한 고통의 흔적들은 모두 우리를 향한 하나님의 영수증입니다. "내가 이만큼 너를 귀하게 여긴다"는 확증입니다.
 
-<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px; margin-top: 16px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 나의 가치를 어디서 찾고 있나요?
+<span style="display: block; font-size: 13px; opacity: 0.7; letter-spacing: -0.2px;">- 맥스 루케이도의 '예수가 선택한 십자가' 중에서 -</span>`,question:`1. 나의 가치를 어디서 찾고 있나요?
    세상의 평가가 아닌, 나를 위해 십자가라는
    엄청난 대가를 지불하신 주님의 눈으로
    나를 바라보고 있습니까?
